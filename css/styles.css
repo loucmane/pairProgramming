@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#heroBanner {
+    background-color: rgb(132, 186, 233);
+    width: 700px;
+    height: 200px;
+}
+
+#mainContent {
+    background-color: rgb(235, 83, 63);
+    width: 700px;
+    height: 500px;
+}
